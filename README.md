@@ -20,6 +20,8 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 - 📝 [Resume](https://cutt.ly/hlEZzHo).
 
 </br>
+</br>
+</br>
 
 ### 📈 **My GitHub Stats:**
 
