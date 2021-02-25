@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=IcaroRodrigues.IcaroRodrigues)
 
-I am a full-stack developer. I love programming and do the best of me
+I am a full-stack developer. I love programming and give the best of me
 
 As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
