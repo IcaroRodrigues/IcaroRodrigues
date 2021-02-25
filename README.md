@@ -9,7 +9,7 @@ I am a full-stack developer. I love programming and do the best of me
 
 As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
   
 
 **Talking about Personal Stuffs:**
@@ -28,6 +28,6 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 <p>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IcaroRodrigues&show_icons=true&theme=gotham" alt="icarorodrigues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroRodrigues&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroRodrigues&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
 </p>
 
